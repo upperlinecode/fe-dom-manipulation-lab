@@ -1,0 +1,12 @@
+body{
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  background-color: red;
+  margin: 30px;
+}
