@@ -1,6 +1,6 @@
-# The jQuery Squares Challenge
+# The Javascript Squares Challenge
 
-jQuery is one of the most used javascript libraries on earth, and is useful for adding dynamism interaction to your webpage without having to write vanilla javascript. In the following challenge, you'll get the chance to put your jQuery ninja skills to use by manipulating the DOM!
+In this lab, you'll be using Javascript to manipulate the DOM of a basic page with blue squares. 
 
 Good luck!
 
