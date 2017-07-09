@@ -1,6 +1,6 @@
 # The Javascript Squares Challenge
 
-In this lab, you'll be using Javascript to manipulate the DOM of a basic page with blue squares. 
+In this lab, you'll be using Javascript to manipulate the DOM of a basic page with red squares. 
 
 Good luck!
 
